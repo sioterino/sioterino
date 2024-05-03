@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sofia.a2005@aluno.ifsc.edu.br**
 
-- ⚡ Fun fact **experience with writting and photoshop**
+- ⚡ Fun fact **I have experience with writting and photoshop editting**
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
