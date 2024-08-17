@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A passionate softwere development studant from Brazil</h3>
 <br>
 - 🌱 I’m currently studying at Federal Institute of Santa Catarina, Brazil.
 
-- 📫 How to reach me **sofia.a2005@aluno.ifsc.edu.br**
+- 📫 How to reach me **sofialvestoreti@gmail.com**
 
 - ⚡ Fun fact **I have experience with writting and photoshop editting**
 <br>
