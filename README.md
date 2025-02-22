@@ -1,25 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sofia</h1>
-<br>
-- 🌱 I’m currently studying at Federal Institute of Santa Catarina, Brazil.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6F00&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Sofia;I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
-- 📫 How to reach me **sofialvestoreti@gmail.com**
 
-- ⚡ Fun fact **I have experience with writting and photoshop editting**
-<br>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sofia-alves-toreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofia-alves-toreti" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sofia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sofia" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siothub&show_icons=true&theme=dark&locale=en" alt="siothub" /></p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sioterino&theme=shadow-orange&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siothub&theme=dark" alt="siothub" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siothub&show_icons=true&theme=dark&locale=en&layout=compact" alt="siothub" /></p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siothub&label=Visitors&color=b40e0e&style=flat" alt="siothub" /> </p>
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sioterino?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
+
+</div>
+
+
+  <source
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sioterino&layout=compact"
+  />
